@@ -6,18 +6,23 @@ I build scalable backend systems and modern frontend applications using
 Django, .NET, React, and API-driven architectures.
 </p>
 <p align="center">
+  <a href="https://github.com/sameer9860" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="25" style="filter: invert(1);"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="25"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="25" style="filter: invert(1);"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/your-facebook-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="25"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="25" style="filter: invert(1);"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="25"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="25" style="filter: invert(1);"/>
   </a>
 </p>
+
 
 ---
 
