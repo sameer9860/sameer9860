@@ -30,12 +30,13 @@ Django, .NET, React, and API-driven architectures.
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,react,js,html,css,postgres,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,react,js,html,css,mysql,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub
+## [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/sameer9860)
+
 
 <!-- Top row -->
 <p align="center">
