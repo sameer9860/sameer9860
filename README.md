@@ -1,4 +1,4 @@
-<h1 align="center">Sameer Khatiwada</h1>
+<h1 align="center">Samir Khatiwada</h1>
 <h3 align="center">Progressive Full-Stack Developer from Nepal</h3>
 
 <p align="center">
@@ -7,18 +7,19 @@ Django, .NET, React, and API-driven architectures.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samir-khatiwada-a34708346/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="25" style="color:#0A66C2;"/>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/sameer.khateewada/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="25" style="color:#1877F2;"/>
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/samirkhatiwada97/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="25" style="color:#E4405F;"/>
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/>
   </a>
 </p>
+
 
 
 ---
