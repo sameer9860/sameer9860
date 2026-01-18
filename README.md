@@ -61,9 +61,12 @@ Django, .NET, React, and API-driven architectures.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
 </p>
-- **🌱 I’m currently working with Django, FastAPI, React.js .**
+
+
+- 🌱 I’m currently working with Django, FastAPI, React.js 
 - 📫 How to reach me samirkhatiwada68@gmail.com
 - 📄 Know further about me https://samirkhatiwada.com.np
+  
 ---
 
 ## 🧩 Major Projects
