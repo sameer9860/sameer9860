@@ -24,8 +24,8 @@ Django, .NET, React, and API-driven architectures.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sameer9860&show_icons=true"
-    alt="GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=sameer9860&show_icons=true&cache_seconds=86400" />
+
 </p>
 
 <p align="center">
