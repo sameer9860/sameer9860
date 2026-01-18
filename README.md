@@ -22,14 +22,18 @@ Django, .NET, React, and API-driven architectures.
 
 ## 📊 GitHub Statistics
 
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true"
+    alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sameer9860&layout=compact" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sameer9860&layout=compact"
+    alt="Top languages" />
 </p>
+
 
 
 
