@@ -22,7 +22,6 @@ Django, .NET, React, and API-driven architectures.
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true" />
