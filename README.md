@@ -14,6 +14,17 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sameer9860/sameer9860/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/sameer9860/sameer9860/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -24,18 +35,29 @@ Django, .NET, React, and API-driven architectures.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer9860&theme=tokyonight" />
-</p>
-
+<!-- Top row -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer9860&theme=tokyonight" />
 </p>
 
+<!-- Second row -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer9860&theme=tokyonight&utcOffset=5.75" />
+</p>
+
+<!-- Center wide graph -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer9860&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -51,17 +73,6 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sameer9860/sameer9860/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/sameer9860/sameer9860/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## ⚡ Focus Areas
 
 - Backend-heavy systems  
@@ -72,4 +83,4 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-⭐ Explore my repositories to see real-world implementations.
+⭐ Pinned repositories will be added below.
