@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true" />
 
 <h1 align="center">Sameer Khatiwada</h1>
 <h3 align="center">Progressive Full-Stack Developer from Nepal</h3>
@@ -25,16 +24,17 @@ Django, .NET, React, and API-driven architectures.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true"
-    alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sameer9860&layout=compact"
-    alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer9860&theme=tokyonight" />
+</p>
+
 
 
 
