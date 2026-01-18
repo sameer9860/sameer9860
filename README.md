@@ -35,7 +35,7 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-## [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/sameer9860)
+##  GITHUB [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/sameer9860)
 
 
 <!-- Top row -->
