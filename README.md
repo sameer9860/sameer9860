@@ -11,10 +11,13 @@ Django, .NET, React, and API-driven architectures.
     <img src="https://img.shields.io/github/followers/sameer9860?label=Follow&style=social" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer9860&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 
 ---
 
-## 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -25,7 +28,6 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,react,js,html,css,postgres,mysql,git,linux" />
@@ -33,7 +35,7 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
 <!-- Top row -->
 <p align="center">
@@ -54,7 +56,7 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
