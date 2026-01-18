@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameer9860&show_icons=true" />
+
 <h1 align="center">Sameer Khatiwada</h1>
 <h3 align="center">Progressive Full-Stack Developer from Nepal</h3>
 
