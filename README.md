@@ -94,8 +94,8 @@ Django, .NET, React, and API-driven architectures.
 
 - **Lead Management System** — Django-based CRM-style system  
 - **Fee Management System** — Secure Django fee & payment tracking  
-- **Sahakari Management System (Rajpokhari Sahakari)** —  
-  React + Django + FastAPI cooperative system  
+- **Job Tracker Project** —  Personal Job Tracker Project Made by Django and React
+- **GitHub Profile Analyzer and comparer** - React based Project can analyze the github account and compare two profiles by usernames
 - **Personal Portfolio** — React-based professional portfolio  
 - **Learning Management System (LMS)** — Enterprise-grade .NET system  
 
