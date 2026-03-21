@@ -23,7 +23,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <picture>
@@ -51,7 +51,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 ##  GITHUB [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/sameer9860)
@@ -88,7 +88,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 ## ⚡Activity Graph
@@ -100,7 +100,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 - 🌱 I’m currently working with Django, FastAPI, React.js 
@@ -110,7 +110,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 ## 🧩 Major Projects
@@ -125,7 +125,7 @@ Django, .NET, React, and API-driven architectures.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8b1QK0P.gif" width="100%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 ## 📈 Focus Areas
