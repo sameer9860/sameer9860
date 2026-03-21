@@ -20,10 +20,30 @@ Django, .NET, React, and API-driven architectures.
   </a>
 </p>
 
+<style>
+.blink-line {
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #00f, transparent);
+  animation: blink 1.2s infinite, pulse 2s infinite;
+}
 
+@keyframes blink {
+  0% { opacity: 0.2; }
+  50% { opacity: 1; }
+  100% { opacity: 0.2; }
+}
+
+@keyframes pulse {
+  0% { transform: scaleX(0.95); }
+  50% { transform: scaleX(1); }
+  100% { transform: scaleX(0.95); }
+}
+</style>
 
 ---
 
+<div class="blink-line"></div>
 
 <p align="center">
   <a href="https://github.com/sameer9860">
@@ -34,9 +54,9 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://komarev.com/ghpvc/?username=sameer9860&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-
 ---
 
+<div class="blink-line"></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -47,12 +67,15 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
+<div class="blink-line"></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,docker,react,js,html,css,mysql,git,linux" />
 </p>
 
 ---
+
+<div class="blink-line"></div>
 
 ##  GITHUB [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/sameer9860)
 
@@ -77,18 +100,25 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
+<div class="blink-line"></div>
+
 ## ⚡Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+<div class="blink-line"></div>
 
 - 🌱 I’m currently working with Django, FastAPI, React.js 
 - 📫 How to reach me samirkhatiwada68@gmail.com
 - 📄 Know further about me https://samirkhatiwada.com.np
   
 ---
+
+<div class="blink-line"></div>
 
 ## 🧩 Major Projects
 
@@ -101,6 +131,8 @@ Django, .NET, React, and API-driven architectures.
 
 ---
 
+<div class="blink-line"></div>
+
 ## 📈 Focus Areas
 
 - Backend-heavy systems  
@@ -108,7 +140,3 @@ Django, .NET, React, and API-driven architectures.
 - REST API design  
 - Performance & scalability  
 - Clean architecture  
-
----
-
-⭐ Pinned repositories will be added below.
