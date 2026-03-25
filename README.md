@@ -55,7 +55,7 @@ Django, .NET, React, and API-driven architectures.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,docker,react,js,html,css,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,docker,react,typescript,nextjs,html,css,mysql,mongo,postgresql,git,linux" />
 </p>
 
 ---
