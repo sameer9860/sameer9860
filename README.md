@@ -85,6 +85,10 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer9860&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9860&theme=dark&hide_border=false" />
+</p>
+
 ---
 
 <p align="center">
