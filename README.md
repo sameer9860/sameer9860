@@ -134,4 +134,4 @@ Django, .NET, React, and API-driven architectures.
 - Business & cooperative software  
 - REST API design  
 - Performance & scalability  
-- Clean architecture  
+- Clean architecture    
