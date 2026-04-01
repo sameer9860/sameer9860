@@ -70,13 +70,13 @@ Django, .NET, React, and API-driven architectures.
 
 <!-- Top row -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=radical&border" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer9860&theme=radical" />
 </p>
 
 <!-- Second row -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula&border" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer9860&theme=dracula&utcOffset=5" />
 </p>
 
