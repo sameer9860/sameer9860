@@ -86,7 +86,7 @@ Django, .NET, React, and API-driven architectures.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9860&theme=dracula" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9860&theme=dracula&v=1" />
 </p>
 
 ---
