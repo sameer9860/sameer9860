@@ -86,7 +86,7 @@ Django, .NET, React, and API-driven architectures.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sameer9860&theme=dracula&v=2" />
+<img src="https://streak-stats.demolab.com?user=sameer9860&theme=dracula&v=2" />
 </p>
 
 ---
