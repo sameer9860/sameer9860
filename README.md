@@ -20,7 +20,6 @@ Django, .NET, React, and API-driven architectures.
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -35,7 +34,7 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://komarev.com/ghpvc/?username=sameer9860&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -48,7 +47,7 @@ Django, .NET, React, and API-driven architectures.
     src="https://raw.githubusercontent.com/sameer9860/sameer9860/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -58,7 +57,7 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,dotnet,docker,html,css,react,typescript,nextjs,mysql,mongo,postgresql,git,linux" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -89,7 +88,6 @@ Django, .NET, React, and API-driven architectures.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9860&theme=radical&hide_border=true" />
 </p>
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -101,7 +99,6 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -111,7 +108,7 @@ Django, .NET, React, and API-driven architectures.
 - 📫 How to reach me samirkhatiwada68@gmail.com
 - 📄 Know further about me https://samirkhatiwada.com.np
   
----
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -126,7 +123,7 @@ Django, .NET, React, and API-driven architectures.
 - **Personal Portfolio** — React-based professional portfolio  
 - **Learning Management System (LMS)** — Enterprise-grade .NET system  
 
----
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
