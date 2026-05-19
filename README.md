@@ -96,7 +96,7 @@ Django, .NET, React, and API-driven architectures.
 ## ⚡Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true&v=1" />
 </p>
 
 
