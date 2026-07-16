@@ -65,23 +65,18 @@ Django, .NET, React, and API-driven architectures.
 
 ##  GITHUB [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/sameer9860)
 
-<p align = "center"> Statistics </p>
-
-<!-- Top row -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=radical&border" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer9860&theme=radical&v=1" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer9860&theme=radical&v=1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer9860&theme=radical&v=1"/>
 </p>
 
-<!-- Second row -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula&border" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer9860&theme=dracula&utcOffset=5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula&v=1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer9860&theme=dracula&utcOffset=5.75&v=1"/>
 </p>
 
-<!-- Center wide graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer9860&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer9860&theme=tokyonight&v=1"/>
 </p>
 
 <p align="center">
