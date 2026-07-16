@@ -75,7 +75,7 @@ Django, .NET, React, and API-driven architectures.
 
 <!-- Second row -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula&border&v=1" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer9860&theme=dracula&border" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer9860&theme=dracula&utcOffset=5" />
 </p>
 
