@@ -99,7 +99,7 @@ Django, .NET, React, and API-driven architectures.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-- 🌱 I’m currently working with Django, FastAPI, React.js 
+- 🌱 I’m currently working with Django, DRF, Next.js , React.js and AI and ML related projects
 - 📫 How to reach me samirkhatiwada68@gmail.com
 - 📄 Know further about me https://samirkhatiwada.com.np
   
@@ -111,12 +111,13 @@ Django, .NET, React, and API-driven architectures.
 
 ## 🧩 Major Projects
 
-- **Lead Management System** — Django-based CRM-style system  
-- **Fee Management System** — Secure Django fee & payment tracking  
-- **Job Tracker Project** —  Personal Job Tracker Project Made by Django and React
-- **GitHub Profile Analyzer and comparer** - React based Project can analyze the github account and compare two profiles by usernames
-- **Personal Portfolio** — React-based professional portfolio  
-- **Learning Management System (LMS)** — Enterprise-grade .NET system  
+- **DevHire** — Full-stack recruitment platform for job posting, candidate management, and hiring workflow
+- **Smart Bill Nepal** — Billing and invoicing system for Nepal with customer, inventory, and payment management
+- **Lead Management System** — Django-based CRM-style system
+- **Fee Management System** — Secure Django fee & payment tracking
+- **Job Tracker Project** — Personal Job Tracker Project made with Django and React
+- **GitHub Profile Analyzer and Comparer** — React-based project that analyzes GitHub accounts and compares two profiles by username
+- **Learning Management System (LMS)** — Enterprise-grade .NET system
 
 
 
