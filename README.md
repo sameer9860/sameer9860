@@ -2,8 +2,8 @@
 <h3 align="center">Progressive Full-Stack Developer from Nepal</h3>
 
 <p align="center">
-I build scalable backend systems and modern frontend applications using
-Django, .NET, React, and API-driven architectures.
+I build scalable backend systems and modern frontend applications
+using Django, .NET, React, Next, AI & ML and API-driven architecture
 </p>
 
 <p align="center">
