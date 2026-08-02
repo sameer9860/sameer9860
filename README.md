@@ -1,9 +1,9 @@
 <h1 align="center">Samir Khatiwada</h1>
+
 <h3 align="center">Progressive Full-Stack Developer from Nepal</h3>
 
 <p align="center">
-I build scalable backend systems and modern frontend applications
-using Django, .NET, React, Next, AI & ML and API-driven architecture
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=1000&lines=I+build+scalable+backend+systems+and+modern+frontend+applications;using+Django,+.NET,+React,+Next,+AI+%26+ML+and+API-driven+architecture" />
 </p>
 
 <p align="center">
