@@ -118,7 +118,7 @@
 - **Job Tracker Project** — Personal Job Tracker Project made with Django and React
 - **Lead Management System** — Django-based CRM-style system
 - **Fee Management System** — Secure Django fee & payment tracking
-- **Procurement Platform** — Building.....
+- **Procurement Platform** — Building.....Around 70% completed.
 
 
 <p align="center">
