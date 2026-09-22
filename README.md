@@ -113,12 +113,13 @@
 
 - **DevHire** — Full-stack recruitment platform for job posting, candidate management, and hiring workflow
 - **Smart Bill Nepal** — Billing and invoicing system for Nepal with customer, inventory, and payment management
+- **Procurement Platform** — Built a B2B procurement platform with RBAC, approvals, RFQs, POs, invoices, Celery, Redis, and JWT.
 - **Learning Management System (LMS)** — Enterprise-grade .NET system
 - **GitHub Profile Analyzer and Comparer** — React-based project that analyzes GitHub accounts and compares two profiles by username
 - **Job Tracker Project** — Personal Job Tracker Project made with Django and React
 - **Lead Management System** — Django-based CRM-style system
 - **Fee Management System** — Secure Django fee & payment tracking
-- **Procurement Platform** — Built a B2B procurement platform with RBAC, approvals, RFQs, POs, invoices, Celery, Redis, and JWT.
+
 
 
 <p align="center">
