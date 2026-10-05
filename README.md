@@ -94,7 +94,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer9860&theme=tokyo-night&hide_border=true&v=2" />
 </p>
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
